@@ -67,7 +67,7 @@ graph TD
 ```
 
 ### 🔄 Cycle d'inférence (4 phases)
-1. ** Motivation** : Évaluation de l'assiduité, de l'implication et des habitudes d'étude.
+1. **Motivation** : Évaluation de l'assiduité, de l'implication et des habitudes d'étude.
 2. **🔍 Potentiel** : Analyse des résultats académiques et des compétences transversales.
 3. **🎯 Orientation** : Matching du profil avec les filières/spécialités adaptées.
 4. **💻 Diagnostic Informatique** : Granularité fine sur les sous-compétences du domaine informatique pour proposer un plan de remédiation personnalisé.

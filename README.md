@@ -186,4 +186,4 @@ Ce projet de Master démontre la maîtrise des concepts suivants :
 **Conçu avec rigueur académique et passion pour l'IA symbolique ❤️‍**
 
 </div>
-```
+

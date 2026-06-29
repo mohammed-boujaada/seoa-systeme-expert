@@ -4,7 +4,7 @@ from inference_engine import MoteurInference
 
 
 def test_etudiant_excellent():
-    print("\n=== TEST 1: Excellent étudiant ===")
+    print("\n==== TEST 1: Excellent étudiant ====")
     
     etudiant = Etudiant(
         id="E001",

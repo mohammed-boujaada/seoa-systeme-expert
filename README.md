@@ -173,6 +173,7 @@ Ce projet de Master démontre la maîtrise des concepts suivants :
 [![Email](https://img.shields.io/badge/Email-mohammed.boujaada@ump.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.boujaada@ump.ac.ma)
 
 </div>
+
 ---
 
 <div align="center">

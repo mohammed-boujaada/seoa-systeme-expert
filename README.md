@@ -162,21 +162,17 @@ Ce projet de Master démontre la maîtrise des concepts suivants :
 
 ## 👨‍🎓 Auteur
 
-<div align="center">
-
-### **Boujaada Mohammed**
-
-🎓 **Master** en Intelligence Artificielle et Technologies Émergentes (MIATE)  
-🎓 **Licence** en Génie Logiciel  
-
-[![GitHub](https://img.shields.io/badge/GitHub-@boujaadamohammed-black?logo=github)](https://github.com/boujaadamohammed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Boujaada%20Mohammed-blue?logo=linkedin)](https://www.linkedin.com/in/boujaadamohammed/)
-
-📅 **Dernière mise à jour** : Juin 2026  
-✅ **Statut** : Actif & Maintenu
-
 </div>
 
+### 🎓 Master's Student in Artificial Intelligence & Emerging Technologies (IATE)
+
+**📍 Morocco** | **📧 mohammed.boujaada@ump.ac.ma**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Boujaada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-boujaada-229a3333a/)
+[![GitHub](https://img.shields.io/badge/GitHub-@mohammed--boujaada-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammed-boujaada)
+[![Email](https://img.shields.io/badge/Email-mohammed.boujaada@ump.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.boujaada@ump.ac.ma)
+
+</div>
 ---
 
 <div align="center">
